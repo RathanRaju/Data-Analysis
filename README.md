@@ -1,6 +1,8 @@
 # Data-Analysis
 
-### Software covered:
+---
+
+### Software used:
 
 * Python 3
 * Numpy, Pandas, Matplotlib, and seaborn
